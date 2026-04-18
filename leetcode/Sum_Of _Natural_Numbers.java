@@ -1,3 +1,5 @@
+//using recursion
+
 import java.util.Scanner;
 
 class NaturalSum {
